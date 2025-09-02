@@ -1,8 +1,8 @@
 # 🚀 Akani Shibiri | Futuristic Portfolio
 
 > **Check out my interactive spaceship-themed portfolio:**  
-> [Futuristic Demo](https://your-demo-domain.vercel.app/)  
-> [Re-Player Music App](https://re-player.vercel.app/)
+> [See My Journey Here!](https://your-demo-domain.vercel.app/)  
+> [Re-Player Music Player](https://re-player.vercel.app/)
 
 ![Spaceship](https://your-space-ship-gif-url.com/spaceship.gif)
 
