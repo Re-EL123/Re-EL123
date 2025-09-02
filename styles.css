@@ -1,0 +1,173 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: 'Orbitron', 'Segoe UI', Arial, sans-serif;
+  background: radial-gradient(ellipse at bottom, #0d1b2a 0%, #1b263b 100%);
+  color: #fff;
+  overflow-x: hidden;
+}
+
+.stars {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  background: transparent;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+  max-width: 900px;
+  margin: 3rem auto;
+  background: rgba(15, 23, 42, 0.85);
+  border-radius: 32px;
+  box-shadow: 0 0 60px #1b263b, 0 0 10px #7f5af0;
+  padding: 2rem 3rem;
+  border: 2px solid #7f5af0;
+  backdrop-filter: blur(5px);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.glow {
+  font-size: 3rem;
+  color: #7f5af0;
+  text-shadow: 0 0 20px #7f5af0, 0 0 60px #00d4ff;
+  letter-spacing: 0.15em;
+}
+
+.subtitle {
+  color: #00d4ff;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 10px #00d4ff;
+}
+
+nav {
+  margin: 1rem 0;
+}
+nav a.neon {
+  display: inline-block;
+  margin: 0 1rem;
+  color: #fff;
+  text-shadow: 0 0 8px #7f5af0, 0 0 18px #00d4ff;
+  font-size: 1.1rem;
+  padding: 0.4rem 1.2rem;
+  border-radius: 24px;
+  border: 1px solid #7f5af0;
+  background: rgba(127, 90, 240, 0.1);
+  transition: background 0.3s, color 0.3s;
+}
+nav a.neon:hover {
+  background: #7f5af0;
+  color: #1b263b;
+}
+
+section {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid #2a3140;
+  padding-bottom: 2rem;
+}
+
+section:last-of-type {
+  border: none;
+  padding-bottom: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #00d4ff;
+  text-shadow: 0 0 14px #7f5af0;
+  margin-bottom: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.icon-planet::before {
+  content: "🪐";
+  font-size: 1.2em;
+}
+.icon-eq::before {
+  content: "🎚️";
+  font-size: 1.2em;
+}
+.icon-github::before {
+  content: "🐙";
+  font-size: 1.2em;
+}
+
+.flex {
+  display: flex;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.skills, .hobbies {
+  flex: 1 1 350px;
+  background: rgba(0, 212, 255, 0.07);
+  border-radius: 18px;
+  box-shadow: 0 0 20px #00d4ff33;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+.skills ul, .hobbies ul {
+  list-style: none;
+  padding: 0;
+}
+.skills li, .hobbies li {
+  margin-bottom: 0.5em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.project a.neon {
+  font-size: 1.1rem;
+}
+
+.github-stats .stats-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+.github-stats img {
+  border-radius: 16px;
+  box-shadow: 0 0 16px #7f5af0, 0 0 6px #00d4ff;
+  background: #222b3a;
+  max-width: 300px;
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  color: #7f5af0;
+  margin-top: 2rem;
+  font-size: 1.1rem;
+  text-shadow: 0 0 10px #00d4ff;
+}
+
+/* Space ship effect (demo, can be improved with spaceship.js) */
+.spaceship {
+  position: absolute;
+  left: 10vw; top: 5vh;
+  width: 120px; height: 80px;
+  background: linear-gradient(45deg, #7f5af0, #00d4ff);
+  border-radius: 50% 50% 40% 40% / 60% 60% 40% 40%;
+  box-shadow: 0 0 80px #00d4ff88, 0 0 40px #7f5af099;
+  animation: spaceship-fly 12s linear infinite;
+}
+
+@keyframes spaceship-fly {
+  0% { left: 10vw; top: 10vh; }
+  50% { left: 80vw; top: 50vh; }
+  100% { left: 10vw; top: 10vh; }
+}
