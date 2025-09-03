@@ -1,7 +1,9 @@
 # 🚀 Akani Shibiri | Futuristic Portfolio
 
-> **Check out my interactive spaceship-themed portfolio:**  
-> [See My Journey Here!](https://re-el123.github.io/Re-EL123/)  
+> **Check out my interactive spaceship-themed portfolio:**
+>
+>  
+> [See My Futuristic Journey Here!](https://re-el123.github.io/Re-EL123/)  
 > [Re-Player Music Player](https://re-player.vercel.app/)
 
 ![Spaceship](https://your-space-ship-gif-url.com/spaceship.gif)
