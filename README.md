@@ -44,5 +44,38 @@ Explore the future of music playback!
 ## 🛸 Connect
 
 - [GitHub](https://github.com/Re-EL123)
-- <a href="https://linkedin.com/in/akani-shibiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jainn" height="30" width="40" /></a>
-- [LinkedIn](https://www.linkedin.com/in/akani-shibiri-2939a119b/)
+- <a href="https://linkedin.com/in/akani-shibiri-2939a119b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jainn" height="30" width="40" /></a>
+
+---
+
+## 🛸 Languages
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <a href="https://www.w3.org/html/" target="_blank" style="background: none; border: none; cursor: pointer; ">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40" width="40" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="40" width="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" style="background: none; border: none; cursor: pointer;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+  </a>
+</p>
