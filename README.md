@@ -79,3 +79,31 @@ Explore the future of music playback!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
   </a>
 </p>
+
+---
+
+## 💼 Hire Me
+
+Need a website built or fixed?  
+📌 [Hire me on Freelancer](https://www.freelancer.com/u/riteshranjan09)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+</picture>
+
+---
+
+## ☕ Support My Work
+
+If you enjoy my work and want to support me:  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ritesh_09)
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ritesh-0309&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh0309" /> 
+</p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritesh-0309.ritesh-0309)
