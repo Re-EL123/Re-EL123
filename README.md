@@ -85,7 +85,7 @@ Explore the future of music playback!
 ## 💼 Hire Me
 
 Need a website built or fixed?  
-📌 [Hire me on Freelancer](https://www.freelancer.com/u/riteshranjan09)
+📌 [Hire me on Freelancer](https://www.freelancer.com/u/akanishibiri)
 
 ---
 
