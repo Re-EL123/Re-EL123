@@ -100,7 +100,7 @@ Need a website built or fixed?
 ## ☕ Support My Work
 
 If you enjoy my work and want to support me:  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ritesh_09)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/akanishibiri)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ritesh-0309&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh0309" /> 
