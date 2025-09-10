@@ -92,7 +92,7 @@ Need a website built or fixed?
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Re-EL123/Re-EL123/output/github-snake.svg" />
 </picture>
 
 ---
@@ -103,7 +103,7 @@ If you enjoy my work and want to support me:
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/akanishibiri)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ritesh-0309&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh0309" /> 
+  <img src="https://komarev.com/ghpvc/?username=Re-EL123&label=Profile%20views&color=0e75b6&style=flat" alt="Re-EL123" /> 
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritesh-0309.ritesh-0309)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_idRe-EL123.Re-EL123)
