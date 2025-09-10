@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Akani Shibiri | Futuristic Portfolio</h1>
+<h1 align="center">🚀 Akani Shibiri | Portfolio</h1>
 
 <p align="center">
   <b>Check out my interactive spaceship-themed portfolio:</b>  
