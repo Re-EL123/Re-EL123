@@ -44,4 +44,5 @@ Explore the future of music playback!
 ## 🛸 Connect
 
 - [GitHub](https://github.com/Re-EL123)
+- <a href="https://linkedin.com/in/akani-shibiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-jainn" height="30" width="40" /></a>
 - [LinkedIn](https://www.linkedin.com/in/akani-shibiri-2939a119b/)
