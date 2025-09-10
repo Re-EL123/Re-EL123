@@ -106,4 +106,4 @@ If you enjoy my work and want to support me:
   <img src="https://komarev.com/ghpvc/?username=Re-EL123&label=Profile%20views&color=0e75b6&style=flat" alt="Re-EL123" /> 
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_idRe-EL123.Re-EL123)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Re-EL123.Re-EL123)
