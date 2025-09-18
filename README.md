@@ -1,26 +1,24 @@
-<h1 align="center" style="
-  font-size: 3em;
-  font-weight: bold;
-  background: linear-gradient(90deg, #ff00cc, #3333ff, #00f0ff, #ff9900);
-  background-size: 400% 400%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: gradientMove 8s ease infinite;
-  text-shadow: 0 0 20px rgba(255,255,255,0.3), 0 0 40px rgba(0,200,255,0.5);
-  font-family: 'Orbitron', sans-serif;
-">
-  🚀 Akani Shibiri | Portfolio
-</h1>
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&display=swap');
-
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+<p align="center">
+  <svg viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff00cc">
+          <animate attributeName="offset" values="0;1;0" dur="8s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#3333ff">
+          <animate attributeName="offset" values="0.5;1.5;0.5" dur="8s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#00f0ff">
+          <animate attributeName="offset" values="1;2;1" dur="8s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 48px; font-weight: bold; fill: url(#gradient);">
+      🚀 Akani Shibiri | Portfolio
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   <b>Check out my interactive spaceship-themed portfolio:</b>  
