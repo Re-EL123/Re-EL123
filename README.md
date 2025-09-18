@@ -14,7 +14,7 @@
       </linearGradient>
     </defs>
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          style="font-family: 'Orbitron', sans-serif; font-size: 48px; font-weight: bold; fill: url(#gradient);">
+          style="font-family: 'Orbitron', sans-serif; font-size: 70px; font-weight: bold; fill: url(#gradient);">
       🚀 Akani Shibiri | Portfolio
     </text>
   </svg>
@@ -29,6 +29,18 @@
   <a href="https://re-player.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🎧%20Re--Player%20Music%20App-orange?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+  <a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
 </p>
 
 <p align="center">
