@@ -1,4 +1,26 @@
-<h1 align="center">🚀 Akani Shibiri | Portfolio</h1>
+<h1 align="center" style="
+  font-size: 3em;
+  font-weight: bold;
+  background: linear-gradient(90deg, #ff00cc, #3333ff, #00f0ff, #ff9900);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientMove 8s ease infinite;
+  text-shadow: 0 0 20px rgba(255,255,255,0.3), 0 0 40px rgba(0,200,255,0.5);
+  font-family: 'Orbitron', sans-serif;
+">
+  🚀 Akani Shibiri | Portfolio
+</h1>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&display=swap');
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 <p align="center">
   <b>Check out my interactive spaceship-themed portfolio:</b>  
