@@ -29,18 +29,7 @@
   <a href="https://re-player.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🎧%20Re--Player%20Music%20App-orange?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
+ 
 </p>
 
 <p align="center">
@@ -162,4 +151,16 @@ A PWM-based music player with HQ equalizer presets.
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Re-EL123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Re-EL123.Re-EL123" alt="Visitor Badge"/>
+   <a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
 </p>
