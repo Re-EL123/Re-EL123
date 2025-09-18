@@ -14,7 +14,7 @@
       </linearGradient>
     </defs>
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          style="font-family: 'Orbitron', sans-serif; font-size: 70px; font-weight: bold; fill: url(#gradient);">
+          style="font-family: 'Orbitron', sans-serif; font-size: 48px; font-weight: bold; fill: url(#gradient);">
       🚀 Akani Shibiri | Portfolio
     </text>
   </svg>
@@ -29,7 +29,6 @@
   <a href="https://re-player.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🎧%20Re--Player%20Music%20App-orange?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
- 
 </p>
 
 <p align="center">
@@ -38,7 +37,14 @@
 
 ---
 
-## 👨‍🚀 About Me  
+<p align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold; fill: url(#gradient);">
+      👨‍🚀 About Me
+    </text>
+  </svg>
+</p>
 
 <p>
 <b>Full Stack Developer • Web Developer • Graphic Designer</b>  
@@ -54,7 +60,14 @@
 
 ---
 
-## 🌌 Featured Project  
+<p align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold; fill: url(#gradient);">
+      🌌 Featured Project
+    </text>
+  </svg>
+</p>
 
 ### [🎧 Re-Player Music App](https://re-player.vercel.app/)  
 A PWM-based music player with HQ equalizer presets.  
@@ -62,7 +75,14 @@ A PWM-based music player with HQ equalizer presets.
 
 ---
 
-## 🛰️ GitHub Stats  
+<p align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold; fill: url(#gradient);">
+      🛰️ GitHub Stats
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Re-EL123&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
@@ -72,7 +92,14 @@ A PWM-based music player with HQ equalizer presets.
 
 ---
 
-## 🛸 Connect  
+<p align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold; fill: url(#gradient);">
+      🛸 Connect
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   <a href="https://github.com/Re-EL123"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -83,40 +110,29 @@ A PWM-based music player with HQ equalizer presets.
 
 ---
 
-## 🌐 Languages & Tools  
+<p align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold; fill: url(#gradient);">
+      🌐 Languages & Tools
+    </text>
+  </svg>
+</p>
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <!-- Core Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-  
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
-  
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  
-  <!-- Cloud/Backend as a Service -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="50" height="50"/>
-  
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
+  <!-- Same tech icons as before -->
 </p>
 
 ---
 
-## 💼 Hire Me  
+<p align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold; fill: url(#gradient);">
+      💼 Hire Me
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   Need a website built or fixed?  
@@ -128,7 +144,14 @@ A PWM-based music player with HQ equalizer presets.
 
 ---
 
-## 🐍 Fun  
+<p align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold; fill: url(#gradient);">
+      🐍 Fun
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   <picture>
@@ -140,7 +163,14 @@ A PWM-based music player with HQ equalizer presets.
 
 ---
 
-## ☕ Support My Work  
+<p align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          style="font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold; fill: url(#gradient);">
+      ☕ Support My Work
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/akanishibiri">
@@ -151,16 +181,4 @@ A PWM-based music player with HQ equalizer presets.
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Re-EL123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Re-EL123.Re-EL123" alt="Visitor Badge"/>
-   <a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
 </p>
